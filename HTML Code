@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<title> Renting Rooms </title>
+<body>
+
+
+<h1> Welcome to Renting Rooms Website !</h1><hr>
+
+
+
+<h2>Navigation Menu</h2>
+
+
+<div class="topnav">
+  <a class="active" href="#home">Address</a>
+  <a href="#news">Photos</a>
+  <a href="#contact">ContactUs</a>
+  <a href="#about">Payment</a>
+</div>
+
+
+<p>	Renting Rooms is a privately owned business.
+This Buisness is intiated with providing rooms for students who are from outside and looking for a Hostel.</p>
+
+<h2>HTML Image</h2>
+<img src="image/andy-art-zwZpdhoTbU0-unsplash.jpg" width="500" >
+
+<br>
+<br>
+
+<p>Find us on</p><hr>
+
+<img src="xyz/PngItem_4618525.png" width="50" >
+<img src="abc/facebook-icon-transparent-background-1.png" width="50" >
+
+
+</body>
+</html>
